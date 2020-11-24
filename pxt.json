@@ -1,0 +1,24 @@
+{
+    "name": "tavarez_elsy Project 1- Temperature Invention",
+    "description": "",
+    "dependencies": {
+        "adafruit-circuit-playground-express": "*"
+    },
+    "files": [
+        "main.ts",
+        "README.md",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "0.13.64",
+        "targetId": "maker"
+    },
+    "supportedTargets": [
+        "maker"
+    ],
+    "preferredEditor": "pyprj",
+    "languageRestriction": "python-only"
+}
